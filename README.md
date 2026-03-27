@@ -1,1 +1,1 @@
-# ICML_TSNE
+# README
