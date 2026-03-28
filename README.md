@@ -1,2 +1,2 @@
 # ICML rebuttal
-These are the pictures used for the rebuttal in ICML.
+This repository contains the figures and tables included in the ICML rebuttal.
